@@ -1,4 +1,4 @@
-# Dutchie Scraper
+# OCS Scraper
 
 This simple Python script allows for scraping of data from OCS. 
 
